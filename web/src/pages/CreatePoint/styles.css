@@ -91,6 +91,12 @@
   color: #6c6c80;
 }
 
+#page-create-point form .field input[type='text']:focus,
+#page-create-point form .field input[type='email']:focus,
+#page-create-point form .field select:focus {
+  outline-color: var(--primary-color);
+}
+
 #page-create-point form .field select {
   -webkit-appearance: none;
   -moz-appearance: none;

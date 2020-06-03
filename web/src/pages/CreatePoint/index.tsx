@@ -157,9 +157,7 @@ const CreatePoint = () => {
     try {
       await api.post('/points', data);
 
-      alert('Ponto cadastrado com sucesso!');
-
-      history.push('/');
+      history.push('/success');
     } catch (error) {
       alert(error);
     }
