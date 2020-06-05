@@ -12,8 +12,7 @@
    
 <h1 align="center">
     <img src="https://i.imgur.com/V17t78D.png" />
-</h1>  
-
+</h1>
 
 <p align="center" >Ecoleta é um aplicativo que possibilita pessoas encontrarem pontos de coleta de materiais recicláveis perto da sua localização. </p>
 
@@ -35,3 +34,5 @@ Para esse projeto foram utilizadas as seguintes tecnologias:
   </a>
   
 </p>
+
+Clique em um dos ícones (Servidor, Web e Mobile, respectivamente) para aprender a rodar o projeto em sua máquina.
