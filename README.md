@@ -9,18 +9,13 @@
    <img src="https://img.shields.io/github/languages/top/vitorpedeo/Ecoleta" />    
    <img src="https://img.shields.io/github/last-commit/vitorpedeo/Ecoleta?color=blue" />
 </p>
----   
+   
 <h1 align="center">
     <img src="https://i.imgur.com/V17t78D.png" />
 </h1>  
-  
-
-
 
 
 <p align="center" >Ecoleta é um aplicativo que possibilita pessoas encontrarem pontos de coleta de materiais recicláveis perto da sua localização. </p>
-
-
 
 <h2>:rocket:Tecnologias</h2>
 
@@ -30,15 +25,13 @@ Para esse projeto foram utilizadas as seguintes tecnologias:
   <a href="https://github.com/vitorpedeo/Ecoleta/tree/master/server" >
    <img src="https://i.imgur.com/4Vryy4y.png" />  
   </a>
-   
+   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/vitorpedeo/Ecoleta/tree/master/web">
    <img src="https://i.imgur.com/6CgnlCv.png" />  
   </a>
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/vitorpedeo/Ecoleta/tree/master/mobile">
    <img src="https://i.imgur.com/QkArX8w.png" />  
   </a>
   
 </p>
-
-
