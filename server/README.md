@@ -65,7 +65,7 @@ cd server
 Instale todas as dependências
 
 ```shell
-yarn add
+yarn install
 ```
 
 Rode as _migrations_ e as _seeds_
