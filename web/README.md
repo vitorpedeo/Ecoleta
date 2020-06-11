@@ -53,7 +53,7 @@ cd web
 Instale todas as dependências
 
 ```shell
-yarn add
+yarn install
 ```
 
 Inicie a aplicação
