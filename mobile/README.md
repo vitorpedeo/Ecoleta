@@ -53,7 +53,7 @@ cd mobile
 Instale todas as dependências
 
 ```shell
-yarn add
+yarn install
 ```
 
 Inicie a aplicação
