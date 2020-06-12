@@ -16,7 +16,7 @@
 
 <p align="center" >Ecoleta é um aplicativo que possibilita pessoas encontrarem pontos de coleta de materiais recicláveis perto da sua localização. </p>
 
-<h2>:rocket:Tecnologias</h2>
+<h2>:rocket: Tecnologias</h2>
 
 Para esse projeto foram utilizadas as seguintes tecnologias:
 
